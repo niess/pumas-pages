@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a.button {
+  width: 99px;
+  padding: 8px 28px 8px 4px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#downloads {
+  margin-bottom: 20px;
+}
+
+#browse-sources span {
+  background: transparent url(../images/github-mark.png) 12px 100%/24px no-repeat;
+}
+
+#browse-the-wiki span {
+  background: transparent url(../images/wiki.png) 12px 100%/24px no-repeat;
+}
+
+#browse-the-api span {
+  background: transparent url(../images/api.png) 12px 100%/24px no-repeat;
+}
+
+#get-materials span {
+  background: transparent url(../images/materials.png) 8px 100%/32px no-repeat;
+}
+
+#main_content {
+  margin-bottom: 20px;
+}
