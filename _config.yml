@@ -2,7 +2,7 @@ title: PUMAS
 description: A C99 library for the transport of high energy &mu; or &tau;
 repository_url: https://github.com/niess/pumas
 docs_url: http://niess.github.io/pumas-docs
-google_analytics:
+google_analytics: UA-118295149-1
 show_downloads: false
 theme: jekyll-theme-tactile
 
