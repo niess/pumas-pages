@@ -1,3 +1,4 @@
 # Ignore temporary builds
 _site
 Gemfile.lock
+.jekyll-metadata
