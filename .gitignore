@@ -1,4 +1,6 @@
 # Ignore temporary builds
+.bundle
 _site
 Gemfile.lock
 .jekyll-metadata
+vendor
